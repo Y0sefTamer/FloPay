@@ -1,0 +1,27 @@
+{
+  "canisters": {
+    "FloPay_backend": {
+      "candid": "src/FloPay_backend/FloPay_backend.did",
+      "package": "FloPay_backend",
+      "type": "rust"
+    },
+    "FloPay_frontend": {
+      "dependencies": [
+        "FloPay_backend"
+      ],
+      "source": [
+        "src/FloPay_frontend/dist"
+      ],
+      "type": "assets",
+      "workspace": "FloPay_frontend"
+    }
+  },
+  "defaults": {
+    "build": {
+      "args": "",
+      "packtool": ""
+    }
+  },
+  "output_env_file": ".env",
+  "version": 1
+}

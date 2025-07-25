@@ -1,0 +1,5 @@
+[workspace]
+members = [
+    "src/FloPay_backend"
+]
+resolver = "2"
