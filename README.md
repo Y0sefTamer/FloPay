@@ -76,6 +76,7 @@ We plan to explore the following improvements in future versions:
 - 👨‍💻Ahmed Magdy
 - 👨‍💻Marim Mohamed
 - 👨‍💻Marim Fadel
+- 👨‍💻Mohamed Abdou
 - 🎓 ICP Hackathon Bootcamp Participant
 
 ---
